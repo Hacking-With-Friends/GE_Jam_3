@@ -5,3 +5,11 @@
 # Theme
 
 **Duality** with a bonus theme of ***Dreams & Nightmares***
+
+# Resources used
+
+ * Blender 2.81
+   * 3D modeled the Player(s), Enemies, Platforms and Objects
+ * Pyglet 1.5.13
+   * Used for rendering and manipulating OpenGL contexts
+ * Python 3.9.1
